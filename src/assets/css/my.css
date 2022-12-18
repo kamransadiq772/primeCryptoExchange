@@ -1,0 +1,41 @@
+.active{
+
+}
+.active a{
+    background-color: #82cbff !important;
+    color: white !important;
+}
+.active a i{
+    z-index: 100;
+    color: white !important;
+   /* background-color: white !important; */
+}
+/* .active a .activei{
+    color: white !important;
+   background-color: white !important;
+} */
+.active p{
+    background-color: #82cbff !important;
+    color: white !important;
+}
+.navlink{
+    text-transform: uppercase;
+    font-size: 0.7142em;
+    padding: 0.5rem 0.7rem;
+    line-height: 1.625rem;
+    margin-right: 3px;
+}
+.rdt_Table{
+    
+}
+.rdt_TableRow{
+    border: none !important;
+}
+.rdt_TableHead{
+}
+.rdt_TableHeader{
+}
+.rdt_TableHeadRow{
+    font-weight: 900;
+    font-size: larger;
+}
